@@ -106,6 +106,7 @@ class App extends Component {
          <div>{this.state.quote}</div>
          
          </div>
+         
          </div>
       
        
